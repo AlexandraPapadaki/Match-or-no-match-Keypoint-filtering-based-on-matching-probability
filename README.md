@@ -1,4 +1,4 @@
-# Match-or-no match: Keypoint filtering based on matching probability
+# Match or no match: Keypoint filtering based on matching probability
 
 Requirements
 ------------------------
