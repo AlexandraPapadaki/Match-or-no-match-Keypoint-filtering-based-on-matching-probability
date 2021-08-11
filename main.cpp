@@ -1,6 +1,6 @@
 /////////////////////////////////////////////////////////////////////////////////////////////////////////
 ///
-/// Predicting matchable keypoints using Random Forests
+/// Match-or-no match: Keypoint filtering based on matching probability
 ///
 /// Author: Alexandra Papadaki
 /// Support: al.i.papadaki@gmail.com
@@ -8,12 +8,12 @@
 ///
 /// ************************   NOTES       ***************************************************
 /// The present algorithm predicts the matchable keypoints in a single image.
-/// To obtain your own training data, train a new model or apply inference (testing),
-/// please uncomment the corresponding code parts in the main code, and provide the required variables.
+/// To train your own model or/and apply inference (testing),
+/// please uncomment the corresponding code parts in the main code and provide the required variables.
 ///
 /// For more details regarding the application of the present algorithm and especially
 /// regarding the obtainment of own train data or use of the provided ones,
-/// please follow the guidance in the README.txt file that is attached to the algorithm
+/// please follow the guidance in the README file.
 ///
 ////////////////////////////////////////////////////////////////////////////////////////////////////////
 
