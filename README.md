@@ -4,7 +4,7 @@ Requirements
 ------------------------
 The implemented algorithm predicts matchable keypoints. The introduced algorithm was implemented in C++. It was tested on Windows and Linux OS.
 
-- Additional requirements : OpenCV 3.x.
+- Additional requirements : OpenCV 3.4.x
 
 
 Contained source files 
