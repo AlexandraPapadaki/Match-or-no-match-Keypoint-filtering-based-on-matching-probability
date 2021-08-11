@@ -48,6 +48,12 @@ Run inference/testing
 5) Find final predictions under the "Results" folder. "PredictedLabelsAll" folder provides a file for each image, containing the predicted labels for all the detected keypoints. "PredictedMatchableKeypoints" provides a file for each image, containing the keypoints (coordinates, octave, angle, size and response) that were predicted as matchable.
 
 
-References
+If you use this code for your research, please cite the following paper
 ------------------------
-[1] Papadaki, A. I., & Hansch, R. (2020). Match or no match: Keypoint filtering based on matching probability. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (pp. 1014-1015).
+@inproceedings{papadaki2020match,
+  title={Match or no match: Keypoint filtering based on matching probability},
+  author={Papadaki, Alexandra I and Hansch, Ronny},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops},
+  pages={1014--1015},
+  year={2020}
+}
