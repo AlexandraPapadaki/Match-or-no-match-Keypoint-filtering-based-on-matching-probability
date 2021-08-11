@@ -50,8 +50,8 @@ Run inference/testing
 Citation
 ------------------------
 If you use this code for your research, please cite the following paper:
-	-main.cpp : load data, and call functions for applying pre-training, training and/or testing, according to the needs of the current application.  
-	-@inproceedings{papadaki2020match,
+	- main.cpp : load data, and call functions for applying pre-training, training and/or testing, according to the needs of the current application.  
+	- @inproceedings{papadaki2020match,
   title={Match or no match: Keypoint filtering based on matching probability},
   author={Papadaki, Alexandra I and Hansch, Ronny},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops},
