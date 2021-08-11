@@ -118,6 +118,7 @@ int main(int argc, char** argv) {
             }
         }
 
+// Write out keypoints for further SFM. Avoid it if not needed to prevent performance. 
 //        // Write out for VSFM
 //        FILE* file1;
 //
