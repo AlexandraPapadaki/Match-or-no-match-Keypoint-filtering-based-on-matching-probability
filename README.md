@@ -51,7 +51,7 @@ Citation
 ------------------------
 If you use this code for your research, please cite the following paper:
 
-	-@inproceedings{papadaki2020match,
+	@inproceedings{papadaki2020match,
 	title={Match or no match: Keypoint filtering based on matching probability},
 	author={Papadaki, Alexandra I and Hansch, Ronny},
 	booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops},
