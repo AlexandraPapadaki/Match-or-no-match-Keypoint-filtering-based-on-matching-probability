@@ -1,6 +1,6 @@
 /////////////////////////////////////////////////////////////////////////////////////////////////////////
 ///
-/// Predicting matchable keypoints using Random Forests
+/// Match or no match: Keypoint filtering based on matching probability
 ///
 /// Author: Alexandra Papadaki
 /// Support: al.i.papadaki@gmail.com
