@@ -1,4 +1,25 @@
-# Match or no match: Keypoint filtering based on matching probability
+<h1 align="center">
+Match or no match: Keypoint filtering based on matching probability
+</h1>
+
+<div align="center">
+<h3>
+<br>
+<br>
+Alexandra Papadaki & Ronny Haensch
+<br>
+<br>
+CVRP: Conference on Computer Vision and Pattern Recognition Workshops 2020
+<br>
+<br>
+<a href="https://openaccess.thecvf.com/content_CVPRW_2020/papers/w61/Papadaki_Match_or_No_Match_Keypoint_Filtering_Based_on_Matching_Probability_CVPRW_2020_paper.pdf">[Paper]</a>
+<a href="https://www.youtube.com/watch?v=4jV3S04ejFc&ab_channel=ComputerVisionFoundationVideos">[Presentation Video (10 min)]</a>
+<br>
+<br>
+</h3>
+</div>
+
+
 
 Requirements
 ------------------------
